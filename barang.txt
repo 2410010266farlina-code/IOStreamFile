@@ -1,0 +1,5 @@
+Laptop ASUS ROG;1.55E7;4
+Mouse Logitech G;350000.0;12
+Kemeja Erigo Slim;185000.0;25
+Susu UHT Ultra 1L;18500.0;60
+Keyboard Mechanical;650000.0;7
